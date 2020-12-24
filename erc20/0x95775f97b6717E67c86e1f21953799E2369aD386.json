@@ -1,0 +1,28 @@
+{
+  "symbol": "OTP",
+  "address": "0x6dfBCB859b4e64a04AFfCE7699a9Ea857c9C1452",
+  "overview":{
+        "en": "OTP token is personal security blockchain platform.",
+        "zh": "
+"
+  },
+  "email": "otpfoudation@gmail.com",
+  "website": "https://www.otpt.link",
+  "whitepaper": "http://www.otpt.link/otpwhiatepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-10-11",
+  "initial_price":{
+        "USD":"0.085 USD"
+  },
+  "links": {
+    "blog": "##############",
+    "twitter": "##############",
+    "telegram": "##############",
+    "github": "##############",
+    "facebook": "##############",
+    "reddit": "##############",
+    "slack": "##############",
+    "medium": "##############"
+  }
+}",
+
